@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9d776e8-e0ef-4e46-8821-9fda9559bf21" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../condicionais/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/condicionais.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_A/A1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_A/A2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_B/B1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_B/B2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_C/C1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_C/C2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_D/D1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_D/D2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_E/E1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_E/E2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_F/F1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_F/F2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_G/G1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_H/H1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_I/I1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_I/I2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_J/J1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicio_K/K1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/exercicos_I/I1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/lacos/exercicio1/Exercicio1_DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/lacos/exercicio1/Exercicio1_For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/lacos/exercicio1/Exercicio1_While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/out/production/condicionais/lacos/exercicio2/Exercicio2_For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_A/A1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_A/A2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_B/B1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_B/B2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_C/C1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_C/C2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_D/D1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_D/D2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_E/E1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_E/E2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_F/F1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_F/F2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_G/G1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_H/H1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_I/I1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_I/I2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_J/J1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicio_K/K1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/exercicos_I/I1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/lacos/exercicio1/Exercicio1_DoWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/lacos/exercicio1/Exercicio1_For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/lacos/exercicio1/Exercicio1_While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/lacos/exercicio2/Exercicio2_For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/lacos/exercicio2/Exercicio2_While.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../condicionais/src/lacos/exercicio3/exercicio3_for.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IGGX4je4ET8Wg9mT5t8oY2h8vd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/_10 - MENTORIA_CANAL_DA_NUVEM/exercicios/SEMANA_1/Exercicio1.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9d776e8-e0ef-4e46-8821-9fda9559bf21" name="Changes" comment="" />
+      <created>1669800542572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669800542572</updated>
+      <workItem from="1669800544167" duration="38000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
